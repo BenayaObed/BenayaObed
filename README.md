@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benaya Obed Sinaga</h1>
 <h3 align="center">A passionate Backend developer 🧑‍💻</h3>
-<img align="right" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndtenMyMncwcmR1eDE2MWQ0c2M3NXprYWlvMjBucnk1N3hrMGljZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
+<img align="right" width="400" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndtenMyMncwcmR1eDE2MWQ0c2M3NXprYWlvMjBucnk1N3hrMGljZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benayaobed&label=Profile%20views&color=0e75b6&style=flat" alt="benayaobed" /> </p>
 
