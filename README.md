@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">A passionate Backend developer 🧑‍💻</p>
+<p align="left">My name Benaya Obed Sinaga and i'm A passionate Backend developer 🧑‍💻 form Indonesia</p>
 
 ###
 
