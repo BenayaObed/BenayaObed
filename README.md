@@ -62,7 +62,10 @@
 
 ###
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=BenayaObed&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenayaObed&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenayaObed&theme=merko&hide_border=false" alt="Streak Stats" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenayaObed&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150"/>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
